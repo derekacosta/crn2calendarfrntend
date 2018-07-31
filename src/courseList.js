@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import { h, Component } from 'preact';
 import './App.css';
 import './courseList.css';
 const crn = require('./crn.js');
